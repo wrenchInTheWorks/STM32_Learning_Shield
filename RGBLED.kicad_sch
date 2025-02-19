@@ -1345,7 +1345,6 @@
 	(hierarchical_label "R"
 		(shape input)
 		(at 190.5 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1357,7 +1356,6 @@
 	(hierarchical_label "B"
 		(shape input)
 		(at 95.25 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1369,7 +1367,6 @@
 	(hierarchical_label "G"
 		(shape input)
 		(at 140.97 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
